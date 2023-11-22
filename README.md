@@ -1,4 +1,4 @@
-# Cache-Simulator
-A simple cache simulator written in Java to visualize what I learned in computer architecture class in my second year of computer engineering.
+# Simulador-Memoria-Caché
+Un simulador de memoria caché simple escrito en Java para visualizar lo que aprendí en la clase de arquitectura de computadoras en mi segundo año de ingeniería informática.
 
-The program follows the instructions in the pdf. Both are in spanish, can't do anything about that.
+El programa sigue las instrucciones del pdf.
